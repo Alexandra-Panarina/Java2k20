@@ -1,2 +1,14 @@
-"# Java2k19" 
-"# Java2k20" 
+##Запуск AlisaFallout Server (Курсовая работа)
+
+```
+java AlisaFallout.server.ChatServer 3000
+java AlisaFallout.client.ChatClient 0.0.0.0 3000
+```
+
+
+##Компиляция и запуск Palindrome
+
+```
+javac Palindrome/Main.java
+java Palindrome.Main
+```
