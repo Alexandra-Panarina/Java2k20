@@ -1,4 +1,4 @@
-##Запуск AlisaFallout Server (Курсовая работа)
+## Р—Р°РїСѓСЃРє AlisaFallout Server (РљСѓСЂСЃРѕРІР°СЏ СЂР°Р±РѕС‚Р°)
 
 ```
 java AlisaFallout.server.ChatServer 3000
@@ -6,7 +6,7 @@ java AlisaFallout.client.ChatClient 0.0.0.0 3000
 ```
 
 
-##Компиляция и запуск Palindrome
+## РљРѕРїРјРёР»СЏС†РёСЏ Рё Р·Р°РїСѓСЃРє Palindrome
 
 ```
 javac Palindrome/Main.java
